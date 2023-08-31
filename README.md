@@ -50,3 +50,7 @@ AFTER DOWLOADING DN DISCORD RPC
 
 # IMAGE :star:
 https://cdn.discordapp.com/attachments/1141381331750752347/1146749443413119006/Screenshot_2023-08-30_180251.png
+
+# DN DEVELOPMENT DISCORD 
+
+DISCORD -  https://discord.gg/eqsZkck8Wc
