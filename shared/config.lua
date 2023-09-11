@@ -10,5 +10,5 @@ Config = {
     SecondButtonLink = 'https://discord.gg/nhE38dbX7Z',
 
     UpdateEvery = 60000, -- In ms. (60000ms = 1 minute)
-    Template = '{Citizens} | ID: {1D} | NAME: {NAME}' -- {NAME}, {ID}, {Citizens}
+    Template = '{Citizens} | ID: {ID} | NAME: {NAME}' -- {NAME}, {ID}, {Citizens}
 }
